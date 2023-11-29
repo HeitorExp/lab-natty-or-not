@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto  Inteligenciâ Artificial Verde
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto visa unificar conceitos e tecnologias de IOT (Internet das Coisas) e IA (Inteligência Artificial) para otimização do monitoriamento do desmatamento na Amazônia e redução de áreas verdes nas grandes metrópoles.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Redes Neurais Convolucionais (CNNs)
+- Algoritmos de processamento de imagem
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Este projeto foi elaboradora em parceria com meus colegas de faculdade para a disciplina de Processamento de Imagem.
+Para desenvolvimento deste projeto, escolhemos a linguagem Python e suas bibliotecas Keras, numpy, matplotlib, glob, tensorflow visando identificar matrizes dentro da imagem que representavam áreas desmatadas e uma vez isoladas estas áreas, treinamos o algoritmo por mêses com exemplos destas para que ao serem apresentados a uma nova imagem pudessem reconhecer nesta uma área de vegetação possívelmente desmatada e a colorindo para facilitar identificação posteriormente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Conseguimos uma taxa de precisão superior a 80% nas imagens apresentadas.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Estas iniciativas possuem impactos em escala global no que se diz respeito ao compromisso com a proteção do meio ambiente e avanços tecnologicos no segmento de visão computacional.
 ```
 
 ### Exemplos e Insigths
